@@ -1,2 +1,2 @@
-# Cricket
+# CRICKET
 Testing out Cricket
